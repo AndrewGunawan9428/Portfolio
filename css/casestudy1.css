@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Roboto;
+    src: url(../media/fonts/Roboto/Roboto-Regular.ttf);
+  }
+@font-face{
+ font-family: Montserrat; 
+ src: url(../media/fonts/Montserrat/static/Montserrat-Regular.ttf)
+}
+@font-face {
+ font-family: ExtraRoboto;
+ src: url(../media/fonts/Roboto/Roboto-Bold.ttf);
+}
+@font-face {
+ font-family: SemiBoldRoboto;
+ src: url(../media/fonts/Roboto/Roboto-Medium.ttf);
+}
